@@ -1,0 +1,10 @@
+.menu-wrapper {
+  text-align: center;
+}
+
+.menu-title {
+  margin-top: 15px;
+  line-height: 15px;
+  font-weight: 600;
+  color: #292B2C;
+}

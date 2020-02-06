@@ -1,0 +1,19 @@
+.home-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  margin-bottom: 21px;
+}
+
+.home-title span {
+  font-weight: 800;
+}
+
+.account-detail {
+  font-weight: 600;
+  line-height: 15px;
+}
+
+.detail-title {
+  color: #0275D8;
+}

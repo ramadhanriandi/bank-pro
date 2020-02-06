@@ -1,0 +1,30 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  height: 74px;
+  border-bottom: 1px solid #C0C0C0;
+}
+
+.navbar-brand {
+  font-weight: 800;
+  font-size: 24px;
+  line-height: 29px;
+  color: #292B2C;
+}
+
+.navbar-brand span {
+  color: #0275D8;
+}
+
+.nav-items {
+  display: flex;
+  flex-wrap: nowrap; 
+}
+
+.nav-item {
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 17px;
+  color: #292B2C;
+  margin-left: 50px;
+}

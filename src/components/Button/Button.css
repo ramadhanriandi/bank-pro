@@ -1,0 +1,11 @@
+.custom {
+  border-radius: 5px;
+  height: 44px;
+  width: 100%;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 15px;
+  background-color: #0275D8;
+  border: none;
+  color: white;
+}

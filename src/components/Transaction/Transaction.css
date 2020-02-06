@@ -1,0 +1,41 @@
+.transaction-date {
+  color: #A1A1A1;
+}
+
+.transaction-credit, .transaction-debit {
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 15px;
+  text-transform: uppercase;
+}
+
+.transaction-credit {
+  color: rgb(58, 190, 41);
+}
+
+.transaction-debit {
+  color: #DC1E4C;
+}
+
+.transaction-amount {
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 15px;
+  color: #0275D8;
+}
+
+.transaction-account {
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 15px;
+}
+
+.transaction-date, .transaction-type, .transaction-amount {
+  margin-bottom: 5px;
+}
+
+.transaction-wrapper {
+  padding-bottom: 8px;
+  border-bottom: 1px solid #C0C0C0;
+  margin-bottom: 13px;
+}

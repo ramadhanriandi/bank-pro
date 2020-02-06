@@ -1,0 +1,18 @@
+.form-group input, .form-group select {
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 15px;
+  color: #292B2C;
+  height: 44px;
+}
+
+.form-group input::placeholder {
+  color: #C0C0C0;
+}
+
+.form-group .input-group-text {
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 15px;
+  color: #0275D8;
+}

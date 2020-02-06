@@ -1,0 +1,14 @@
+.outer-wrapper {
+  display: flex;
+  justify-content: center;
+  margin-top: 93px;
+}
+
+.inner-wrapper {
+  width: 407px;
+  padding: 26px;
+  border: 0.5px solid #C0C0C0;
+  box-sizing: border-box;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 17px;
+}
